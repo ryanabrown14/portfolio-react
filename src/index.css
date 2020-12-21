@@ -234,6 +234,7 @@ a {
 }
 .content a{
   color: var(--dark);
+  
 }
 
 .navActive {
