@@ -51,7 +51,7 @@ function Header(props){
                             setResumeSelected(false);
 
                         }}>
-                            About Me
+                            Contact Me
                     
                         </a>    
                         
