@@ -10,36 +10,36 @@ function Portfolio(){
             <h2>My Portfolio</h2>
             <div className = "column">
                 <div className = "content">
-                <h3>Brew Hound</h3>
-                    <img src={brewhound} alt ="" className="img-thumbnail" ></img>
+                <h3><a href ="https://github.com/ryanabrown14/brew-hound" target="blank">Brew Hound</a></h3>
+                    <a href = "https://ryanabrown14.github.io/brew-hound/" target="blank"><img src={brewhound} alt ="" className="img-thumbnail" ></img></a>
+                   
                     
-                    <p></p>
 
                 </div>
             </div>
             <div className = "column">
                 <div className = "content">
-                <h3>Fianance Tracker</h3>
-                    <img src={financeTracker} alt ="" className="img-thumbnail"></img>
-                    <p></p>
+                <h3><a href ="https://github.com/mondrovic/finance-tracker" target="blank">Fianance Tracker</a></h3>
+                    <a href = "https://mighty-meadow-45441.herokuapp.com/" target="blank"><img src={financeTracker} alt ="" className="img-thumbnail"></img></a>
+                    
 
                 </div>
             </div>
             <div className = "column">
                 <div className = "content">
-                <h3>Weather Dashboard</h3>
-                    <img src={Weather} alt ="" className="img-thumbnail"></img>
+                <h3><a href ="https://github.com/ryanabrown14/weather-dashboard" target="blank">Weather Dashboard</a></h3>
+                   <a href ="https://ryanabrown14.github.io/weather-dashboard/" target="blank"><img src={Weather} alt ="" className="img-thumbnail"></img></a> 
                     
-                    <p></p>
+                    
 
                 </div>
             </div>
             <div className = "column">
                 <div className = "content">
-                <h3>PWA budget Tracker</h3>
-                    <img src={PWAbudget} alt ="" className="img-thumbnail"></img>
+                <h3> <a href = "https://github.com/ryanabrown14/budget-trackerPWA" target="blank">PWA budget Tracker</a></h3>
+                    <a href ="https://obscure-sands-50665.herokuapp.com/" target="blank" ><img src={PWAbudget} alt ="" className="img-thumbnail"></img></a>
                     
-                    <p></p>
+                  
 
                 </div>
             </div>
