@@ -37,3 +37,4 @@ Do an npm i within the terminal to install all dependencies required for this pr
 ## Issues
 
 I didn't feel like finishing the about section. I didn't know what to type. I really like this portfolio and will come back to it in the future.
+For some reason the README shows up instead of the website about 50% of the time.
